@@ -1,0 +1,2 @@
+Temporary download path: C:\Users\A1BG52~1\AppData\Local\Temp\playwright-artifacts-TXXRzR\cb5875fb-e4fc-4ef2-bb7e-f8b207e26ce5
+File saved to: C:\Users\a1bg520419\Desktop\FirstTesTPlayPlusJAVASCRIPT\test-results\excelDemo-Upload-download-excel-validation-chrome\download.xlsx
