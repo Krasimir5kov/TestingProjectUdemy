@@ -4,7 +4,12 @@ const { defineConfig, devices } = require('@playwright/test');
 module.exports = defineConfig({
   testDir: './tests',
   retries: 1,
-  reporter: 'html',
+  reporter: [
+    ["html", { "open": "always" }],
+    ["allure-playwright"],
+    ["list"],
+    ["dot"]
+  ],
 
   projects: [
     {
